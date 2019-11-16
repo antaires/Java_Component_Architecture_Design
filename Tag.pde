@@ -1,0 +1,3 @@
+enum Tag {
+  EMPTY, PLAYER, ENEMY, E_BULLET, P_BULLET, ROCK; 
+}
